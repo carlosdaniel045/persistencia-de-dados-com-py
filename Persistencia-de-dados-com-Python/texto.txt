@@ -1,0 +1,3 @@
+Primeira linha escrita no arquivo.
+Segunda linha adicionada através de uma lista.
+Terceira linha gerada pelo script Python.
